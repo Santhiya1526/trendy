@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/trendy/static/css/main.5d461b17.chunk.css",
+    "main.js": "/trendy/static/js/main.9c94fe83.chunk.js",
+    "main.js.map": "/trendy/static/js/main.9c94fe83.chunk.js.map",
+    "runtime-main.js": "/trendy/static/js/runtime-main.ac88882c.js",
+    "runtime-main.js.map": "/trendy/static/js/runtime-main.ac88882c.js.map",
+    "static/css/2.cc2d33b2.chunk.css": "/trendy/static/css/2.cc2d33b2.chunk.css",
+    "static/js/2.3422991c.chunk.js": "/trendy/static/js/2.3422991c.chunk.js",
+    "static/js/2.3422991c.chunk.js.map": "/trendy/static/js/2.3422991c.chunk.js.map",
+    "index.html": "/trendy/index.html",
+    "precache-manifest.eae8eada5550c4cab2db220efd8b6049.js": "/trendy/precache-manifest.eae8eada5550c4cab2db220efd8b6049.js",
+    "service-worker.js": "/trendy/service-worker.js",
+    "static/css/2.cc2d33b2.chunk.css.map": "/trendy/static/css/2.cc2d33b2.chunk.css.map",
+    "static/css/main.5d461b17.chunk.css.map": "/trendy/static/css/main.5d461b17.chunk.css.map",
+    "static/js/2.3422991c.chunk.js.LICENSE.txt": "/trendy/static/js/2.3422991c.chunk.js.LICENSE.txt",
+    "static/media/Logo1.jpg": "/trendy/static/media/Logo1.4e7f73c3.jpg",
+    "static/media/Logo2.jpg": "/trendy/static/media/Logo2.55f9a0f8.jpg",
+    "static/media/Logo3.jpg": "/trendy/static/media/Logo3.5cc93eef.jpg",
+    "static/media/Logo4.jpg": "/trendy/static/media/Logo4.fed45a2b.jpg",
+    "static/media/Logo5.jpg": "/trendy/static/media/Logo5.65039d77.jpg",
+    "static/media/Logo6.jpg": "/trendy/static/media/Logo6.49912490.jpg",
+    "static/media/Logo7.jpg": "/trendy/static/media/Logo7.44560091.jpg",
+    "static/media/Logo8.jpg": "/trendy/static/media/Logo8.fb28e40c.jpg",
+    "static/media/Card.css": "/trendy/static/media/SEGA.12a3db8b.woff",
+    "static/media/Index.css": "/trendy/static/media/softs.180aac24.jpg",
+    "static/media/w4.jpg": "/trendy/static/media/w4.4174b21e.jpg",
+    "static/media/w41.jpg": "/trendy/static/media/w41.d9fcc7e5.jpg",
+    "static/media/About.css": "/trendy/static/media/w6.432f2bdd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac88882c.js",
+    "static/css/2.cc2d33b2.chunk.css",
+    "static/js/2.3422991c.chunk.js",
+    "static/css/main.5d461b17.chunk.css",
+    "static/js/main.9c94fe83.chunk.js"
+  ]
+}
